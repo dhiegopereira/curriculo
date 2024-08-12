@@ -3,7 +3,7 @@
 **Engenheiro de Software**
 
 Sobral, Ceará, Brasil  
-- [https://www.linkedin.com/in/dhiegoti](https://www.linkedin.com/in/dhiegoti)  
+- [https://www.linkedin.com/in/dhiegoti](mailto:https://www.linkedin.com/in/dhiegoti)  
 - [dhiegogamileira@gmail.com](dhiegogamileira@gmail.com)
 - [Whatsapp (88)99678-1666](https://api.whatsapp.com/send?phone=5588996781666)
 
