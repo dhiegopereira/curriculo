@@ -1,11 +1,12 @@
-# Diego Pereira
+# Francisco Diego Pereira Gamileira
 
 **Engenheiro de Software**
 
 Sobral, Ceará, Brasil  
-- [https://www.linkedin.com/in/dhiegoti](https://www.linkedin.com/in/dhiegoti)  
-- [dhiegogamileira@gmail.com](mailto:dhiegogamileira@gmail.com)
-- [Whatsapp (88)99678-1666](https://api.whatsapp.com/send?phone=5588996781666)
+- [Linkedin: https://www.linkedin.com/in/dhiegoti](https://www.linkedin.com/in/dhiegoti)  
+- [Email: dhiegogamileira@gmail.com](mailto:dhiegogamileira@gmail.com)
+- [Whatsapp: (88)99678-1666](https://api.whatsapp.com/send?phone=5588996781666)
+- [Github: https://github.com/dhiegopereira](https://github.com/dhiegopereira){:target="_blank"}
 
 ---
 
