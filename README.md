@@ -3,10 +3,10 @@
 **Engenheiro de Software**
 
 Sobral, Ceará, Brasil  
-- [Linkedin: https://www.linkedin.com/in/dhiegoti](https://www.linkedin.com/in/dhiegoti)  
-- [Email: dhiegogamileira@gmail.com](mailto:dhiegogamileira@gmail.com)
-- [Whatsapp: (88)99678-1666](https://api.whatsapp.com/send?phone=5588996781666)
-- [Github: https://github.com/dhiegopereira](https://github.com/dhiegopereira){:target="_blank"}
+- Linkedin: <a href="https://www.linkedin.com/in/dhiegoti" target="_blank">https://www.linkedin.com/in/dhiegoti</a>
+- Email: [dhiegogamileira@gmail.com](mailto:dhiegogamileira@gmail.com)
+- Whatsapp: <a href="https://api.whatsapp.com/send?phone=5588996781666" target="_blank">(88)99678-1666</a>
+- Github: <a href="https://github.com/dhiegopereira" target="_blank">https://github.com/dhiegopereira</a>
 
 ---
 
