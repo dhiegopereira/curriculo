@@ -48,7 +48,7 @@ Tenho experiência em DevOps, incluindo a criação de VMs, escrita de pipelines
 ## Experiência Profissional
 
 ### **Symbol Digital BR** - Programador de software 
-*abril de 2024 - Present (4 meses)*  
+*outubro de 2024 - Present (4 meses)*  
 Rio Verde, Goiás, Brasil
 
 - Equipe de melhorias em SaaS para farmácias
