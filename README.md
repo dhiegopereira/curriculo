@@ -47,6 +47,22 @@ Tenho experiência em DevOps, incluindo a criação de VMs, escrita de pipelines
 
 ## Experiência Profissional
 
+### **Symbol Digital BR** - Programador de software 
+*abril de 2024 - Present (4 meses)*  
+Rio Verde, Goiás, Brasil
+
+- Equipe de melhorias em SaaS para farmácias
+- Atuo no desenvolvimento de novas funcionalidades para o CRM e na evolução do chatbot, com foco em otimizar atendimentos e impulsionar vendas. Nosso objetivo é oferecer soluções inovadoras e personalizadas para o setor farmacêutico.
+
+
+**Tecnologias e padrões adotados:**
+
+- Arquitetura: MVVM, Micro Frontends e Micro services
+- Backend: Node.js
+- Frontend: React.js com Tailwind
+- Comunicação: RESTful API
+- Persistência: Drizzle, sequelize e mongoose
+
 ### **Codgo.X** - Líder Técnico  
 *abril de 2024 - Present (5 meses)*  
 Barueri, São Paulo, Brasil
